@@ -1,0 +1,7 @@
+{"Country":[
+    {"name":"USA", "total cases":"103,573,042", "new cases":"", "total deaths":"1,125,539", "new deaths":"", "total recovered":"100,319,072"},
+    {"name":"India", "total cases":"44,681,884", "new cases":"", "total deaths":"530,726", "new deaths":"", "total recovered":"44,148,165"},
+    {"name":"France", "total cases":"39,447,605", "new cases":"", "total deaths":"163,347", "new deaths":"", "total recovered":"39,020,091"},
+    {"name":"Germany", "total cases":"37,605,135", "new cases":"", "total deaths":"163,775", "new deaths":"", "total recovered":"37,023,100"},
+    {"name":"Brazil", "total cases":"36,634,134", "new cases":"", "total deaths":"695,369", "new deaths":"", "total recovered":"35,497,700"}
+    ]}

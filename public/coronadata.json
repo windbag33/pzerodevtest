@@ -1,0 +1,7 @@
+[
+    {"name":"USA", "totalcases":"103,573,042", "newcases":"", "totaldeaths":"1,125,539", "newdeaths":"", "totalrecovered":"100,319,072"},
+    {"name":"India", "totalcases":"44,681,884", "newcases":"", "totaldeaths":"530,726", "newdeaths":"", "totalrecovered":"44,148,165"},
+    {"name":"France", "totalcases":"39,447,605", "newcases":"", "totaldeaths":"163,347", "newdeaths":"", "totalrecovered":"39,020,091"},
+    {"name":"Germany", "totalcases":"37,605,135", "newcases":"", "totaldeaths":"163,775", "newdeaths":"", "totalrecovered":"37,023,100"},
+    {"name":"Brazil", "totalcases":"36,634,134", "newcases":"", "totaldeaths":"695,369", "newdeaths":"", "totalrecovered":"35,497,700"}
+]
